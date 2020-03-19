@@ -1,0 +1,9 @@
+{
+  "registry-mirrors": ["http://bc437cce.m.daocloud.io"],
+  "insecure-registries": ["172.17.16.11"],
+  "log-driver": "json-file",
+  "log-opts": {
+    "max-size": "100m"
+  },
+  "storage-driver": "overlay2"
+}
