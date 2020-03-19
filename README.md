@@ -38,7 +38,7 @@ cert_hosts:
 单Master架构
 ![avatar](https://github.com/mashaohua07/ansible-install-k8s/blob/master/single-master.jpg)
 多Master架构
-https://github.com/mashaohua07/ansible-install-k8s/blob/master/multi-master.jpg
+![avatar](https://github.com/mashaohua07/ansible-install-k8s/blob/master/single-master.jpg)
 ### 部署命令
 单Master版：
 ```
